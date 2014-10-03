@@ -1,10 +1,10 @@
 @font-face {
-	font-family: "Prototype";
-	src: url('../resources/font/Prototype.ttf') format("opentype");
+	font-family: "Elektra";
+	src: url('../resources/font/Elektra.ttf') format("opentype");
 }
 
 h1 {
 	color: red;
-	font-family: "Prototype";
+	font-family: "Elektra";
 	font-size: 2.5em;
 }
